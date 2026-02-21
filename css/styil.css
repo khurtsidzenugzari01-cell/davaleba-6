@@ -1,0 +1,82 @@
+.section{
+    width: 1600px;
+    height: 921px;
+    background-color:#461096;
+}
+.div-1{
+    width: 1140;
+    height: 59px;
+    display: flex;
+    vertical-align: middle;
+}
+.div-2{
+    margin-top: auto;
+}
+.div-0{
+    display: flex;
+    vertical-align: middle;
+    width: 152px;
+    height: 50px;
+    margin-top: auto;
+    margin-left: 230px;
+}
+.div-3{
+    display: flex;
+    text-align: center;
+    vertical-align: middle;
+    margin-right:40px;
+    margin-top: auto;
+}
+.ser{
+    color: #FFFFFF;
+    font-size: 18px;
+}
+.Home{
+    display: flex;
+    color: #44B4EE;
+    font-size: 18px;
+    vertical-align: middle;
+    margin-left: 230px;
+    margin-top: auto;
+}
+.Home-1{
+    color:#42B4EE ;
+    font-size: 18px;
+    margin-right: 40px;
+}
+.nav {
+    width: 160px;
+    height: 49px;
+    background-color:#42B4EE;
+    padding-top: 20px;
+}
+.nav-1{
+    color: #FFFFFF;
+    font-size: 18px;
+    margin-top: 40px;
+}
+.Codext{
+    width: 498px;
+    height: 222px;
+    font-size: 62px;
+    color: #FFFFFF;
+    margin-left: 230px;
+    margin-top: 245px;
+}
+.Lorem{
+    width: 435px;
+    height: 87px;
+    color: #FFFFFF;
+    font-size: 18px;
+    margin-left: 230px;
+}
+.Try{
+    width:216px;
+    height: 62px;
+    background-color: #42B4EE;
+    color: #FFFFFF;
+    font-size: 20px;
+    margin-left: 230px;
+    text-align: center;
+    padding-top: 20px;
+}
